@@ -1,11 +1,11 @@
 # project-great-genius-quotes
 
-### Project with genius quotes to motivate the day
+### App to help people who are feeling unmotivated to live. A phrase from a great genius can be the most impactful thing
 <br/>
 
 **In this project is using:** <br/>
 - Consumption of an external API for genius phrases
-- Styled Components
+- Styled Components Library
 - Conditional Check to change the state of buttons and phrases that appear on the screen.
 
 **Images:**
