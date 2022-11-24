@@ -9,3 +9,7 @@
 - Conditional Check to change the state of buttons and phrases that appear on the screen.
 
 **Images:**
+
+![alt text](project/src/assets/AppScreen1.jpeg)
+
+![alt text](project/src/assets/AppScreen2.jpeg)
