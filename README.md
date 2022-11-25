@@ -4,6 +4,7 @@
 <br/>
 
 **In this project is using:** <br/>
+- React Native CLI 
 - Consumption of an external API for genius phrases
 - Styled Components Library
 - Conditional Check to change the state of buttons and phrases that appear on the screen.
